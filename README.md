@@ -4,6 +4,8 @@ A ComfyUI custom node plugin that allows you to run regular expression operation
 
 [中文文档](README_CN.md)
 
+> This custom node is powered by [ltdrdata](https://github.com/ltdrdata) and developed by [Cursor](https://cursor.sh/)
+
 ## Features
 
 - Execute regex matching and replacement in ComfyUI
@@ -77,13 +79,7 @@ Output: "negative prompt: a cat"
    - Supports standard Python regex flags
    - Examples: `re.IGNORECASE`, `re.MULTILINE`, etc.
 
-## Contributing
 
-Contributions via Pull Requests are welcome. Please ensure:
-
-1. Code follows Python coding standards
-2. Appropriate test cases are provided
-3. Documentation is updated
 
 ## License
 

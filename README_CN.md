@@ -2,6 +2,8 @@
 
 ComfyUI-Regex-Runner 是一个 ComfyUI 的自定义节点插件，它允许你在 ComfyUI 工作流中直接运行正则表达式操作。
 
+> 本自定义节点由 [ltdrdata](https://github.com/ltdrdata) 提供支持，由 [Cursor](https://cursor.sh/) 开发
+
 ## 功能特点
 
 - 在 ComfyUI 中执行正则表达式匹配和替换
