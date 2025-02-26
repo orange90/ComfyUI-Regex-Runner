@@ -1,0 +1,14 @@
+[project]
+name = "regex-runner"
+description = "This is a node to run regex for strings."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/orange90/ComfyUI-Regex-Runner"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Regex-Runner"
+Icon = ""
